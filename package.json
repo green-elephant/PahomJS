@@ -1,0 +1,20 @@
+{
+  "name": "pahom",
+  "version": "7.7.7",
+  "description": "Накорми братишку-программиста!",
+  "scripts": {
+    "test": "node test.mjs"
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/green-elephant/PahomJS.git"
+  },
+  "keywords": ["npm", "moderation", "virus", "joke"],
+  "author": "Petr Tripolsky",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/green-elephant/PahomJS/issues"
+  },
+  "homepage": "https://github.com/green-elephant/PahomJS#readme"
+}
