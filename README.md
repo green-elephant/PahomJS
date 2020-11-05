@@ -1,6 +1,7 @@
-# PahomJS
 
 <img src="assets/sweet-bread.png" height="125px" align="right">
+
+# PahomJS
 
 > Является ли эта библиотека вирусов вопрос для обсуждения. Технически - нет)
 
