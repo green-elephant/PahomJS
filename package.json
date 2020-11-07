@@ -5,7 +5,9 @@
   "scripts": {
     "test": "node test.mjs"
   },
-  "main": "index.js",
+  "main": "index.mjs",
+  "module": "index.mjs",
+  "typings": "index.d.ts",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/green-elephant/PahomJS.git"
