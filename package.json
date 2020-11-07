@@ -1,6 +1,6 @@
 {
   "name": "pahom",
-  "version": "7.7.77",
+  "version": "7.7.777",
   "description": "Накорми братишку-программиста!",
   "scripts": {
     "test": "node test.mjs"
